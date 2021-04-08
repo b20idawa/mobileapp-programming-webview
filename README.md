@@ -85,7 +85,7 @@ För att anropa på funktionerna via den rullgardinsmeny som finns i applikation
 ```
 
 Screenshot externlwebpage:
-![](screenshot_externalwebpage.png)
+![](Screenshot_externalwebpage.png)
 
 Screenshot internalwebpage:
-![](screenshot_internalwebpage)
+![](Screenshot_internalwebpage.png)
